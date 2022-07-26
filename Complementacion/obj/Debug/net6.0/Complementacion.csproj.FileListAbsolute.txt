@@ -1,0 +1,15 @@
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Complementacion\bin\Debug\net6.0\Complementacion.exe
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Complementacion\bin\Debug\net6.0\Complementacion.deps.json
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Complementacion\bin\Debug\net6.0\Complementacion.runtimeconfig.json
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Complementacion\bin\Debug\net6.0\Complementacion.dll
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Complementacion\bin\Debug\net6.0\Complementacion.pdb
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Complementacion\obj\Debug\net6.0\Complementacion.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Complementacion\obj\Debug\net6.0\Complementacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Complementacion\obj\Debug\net6.0\Complementacion.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Complementacion\obj\Debug\net6.0\Complementacion.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Complementacion\obj\Debug\net6.0\Complementacion.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Complementacion\obj\Debug\net6.0\Complementacion.dll
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Complementacion\obj\Debug\net6.0\refint\Complementacion.dll
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Complementacion\obj\Debug\net6.0\Complementacion.pdb
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Complementacion\obj\Debug\net6.0\Complementacion.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Documentos\SENA VS\3.TRIM III\Complementacion\obj\Debug\net6.0\ref\Complementacion.dll
