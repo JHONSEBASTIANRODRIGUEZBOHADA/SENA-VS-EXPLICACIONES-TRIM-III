@@ -1,0 +1,15 @@
+C:\Users\Sena\Documents\EjercicioHerencia\bin\Debug\net6.0\EjercicioHerencia.exe
+C:\Users\Sena\Documents\EjercicioHerencia\bin\Debug\net6.0\EjercicioHerencia.deps.json
+C:\Users\Sena\Documents\EjercicioHerencia\bin\Debug\net6.0\EjercicioHerencia.runtimeconfig.json
+C:\Users\Sena\Documents\EjercicioHerencia\bin\Debug\net6.0\EjercicioHerencia.dll
+C:\Users\Sena\Documents\EjercicioHerencia\bin\Debug\net6.0\EjercicioHerencia.pdb
+C:\Users\Sena\Documents\EjercicioHerencia\obj\Debug\net6.0\EjercicioHerencia.csproj.AssemblyReference.cache
+C:\Users\Sena\Documents\EjercicioHerencia\obj\Debug\net6.0\EjercicioHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\Documents\EjercicioHerencia\obj\Debug\net6.0\EjercicioHerencia.AssemblyInfoInputs.cache
+C:\Users\Sena\Documents\EjercicioHerencia\obj\Debug\net6.0\EjercicioHerencia.AssemblyInfo.cs
+C:\Users\Sena\Documents\EjercicioHerencia\obj\Debug\net6.0\EjercicioHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Documents\EjercicioHerencia\obj\Debug\net6.0\EjercicioHerencia.dll
+C:\Users\Sena\Documents\EjercicioHerencia\obj\Debug\net6.0\refint\EjercicioHerencia.dll
+C:\Users\Sena\Documents\EjercicioHerencia\obj\Debug\net6.0\EjercicioHerencia.pdb
+C:\Users\Sena\Documents\EjercicioHerencia\obj\Debug\net6.0\EjercicioHerencia.genruntimeconfig.cache
+C:\Users\Sena\Documents\EjercicioHerencia\obj\Debug\net6.0\ref\EjercicioHerencia.dll
