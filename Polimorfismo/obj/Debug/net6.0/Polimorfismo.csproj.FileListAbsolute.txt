@@ -1,0 +1,15 @@
+C:\Users\Sena\Documents\Polimorfismo\bin\Debug\net6.0\Polimorfismo.exe
+C:\Users\Sena\Documents\Polimorfismo\bin\Debug\net6.0\Polimorfismo.deps.json
+C:\Users\Sena\Documents\Polimorfismo\bin\Debug\net6.0\Polimorfismo.runtimeconfig.json
+C:\Users\Sena\Documents\Polimorfismo\bin\Debug\net6.0\Polimorfismo.dll
+C:\Users\Sena\Documents\Polimorfismo\bin\Debug\net6.0\Polimorfismo.pdb
+C:\Users\Sena\Documents\Polimorfismo\obj\Debug\net6.0\Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Sena\Documents\Polimorfismo\obj\Debug\net6.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\Documents\Polimorfismo\obj\Debug\net6.0\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Sena\Documents\Polimorfismo\obj\Debug\net6.0\Polimorfismo.AssemblyInfo.cs
+C:\Users\Sena\Documents\Polimorfismo\obj\Debug\net6.0\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Documents\Polimorfismo\obj\Debug\net6.0\Polimorfismo.dll
+C:\Users\Sena\Documents\Polimorfismo\obj\Debug\net6.0\refint\Polimorfismo.dll
+C:\Users\Sena\Documents\Polimorfismo\obj\Debug\net6.0\Polimorfismo.pdb
+C:\Users\Sena\Documents\Polimorfismo\obj\Debug\net6.0\Polimorfismo.genruntimeconfig.cache
+C:\Users\Sena\Documents\Polimorfismo\obj\Debug\net6.0\ref\Polimorfismo.dll
