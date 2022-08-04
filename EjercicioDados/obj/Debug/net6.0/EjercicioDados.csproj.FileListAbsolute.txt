@@ -1,0 +1,15 @@
+C:\Users\Sena\Documents\EjercicioDados\bin\Debug\net6.0\EjercicioDados.exe
+C:\Users\Sena\Documents\EjercicioDados\bin\Debug\net6.0\EjercicioDados.deps.json
+C:\Users\Sena\Documents\EjercicioDados\bin\Debug\net6.0\EjercicioDados.runtimeconfig.json
+C:\Users\Sena\Documents\EjercicioDados\bin\Debug\net6.0\EjercicioDados.dll
+C:\Users\Sena\Documents\EjercicioDados\bin\Debug\net6.0\EjercicioDados.pdb
+C:\Users\Sena\Documents\EjercicioDados\obj\Debug\net6.0\EjercicioDados.csproj.AssemblyReference.cache
+C:\Users\Sena\Documents\EjercicioDados\obj\Debug\net6.0\EjercicioDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\Documents\EjercicioDados\obj\Debug\net6.0\EjercicioDados.AssemblyInfoInputs.cache
+C:\Users\Sena\Documents\EjercicioDados\obj\Debug\net6.0\EjercicioDados.AssemblyInfo.cs
+C:\Users\Sena\Documents\EjercicioDados\obj\Debug\net6.0\EjercicioDados.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Documents\EjercicioDados\obj\Debug\net6.0\EjercicioDados.dll
+C:\Users\Sena\Documents\EjercicioDados\obj\Debug\net6.0\refint\EjercicioDados.dll
+C:\Users\Sena\Documents\EjercicioDados\obj\Debug\net6.0\EjercicioDados.pdb
+C:\Users\Sena\Documents\EjercicioDados\obj\Debug\net6.0\EjercicioDados.genruntimeconfig.cache
+C:\Users\Sena\Documents\EjercicioDados\obj\Debug\net6.0\ref\EjercicioDados.dll
