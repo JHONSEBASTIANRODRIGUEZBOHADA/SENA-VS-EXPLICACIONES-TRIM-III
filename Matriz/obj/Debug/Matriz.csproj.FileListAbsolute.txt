@@ -1,0 +1,8 @@
+C:\Users\Sena\Downloads\SENA-VS-TRIM-III-main\SENA-VS-TRIM-III-main\Matriz\obj\Debug\Matriz.csproj.AssemblyReference.cache
+C:\Users\Sena\Downloads\SENA-VS-TRIM-III-main\SENA-VS-TRIM-III-main\Matriz\obj\Debug\Matriz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sena\Downloads\SENA-VS-TRIM-III-main\SENA-VS-TRIM-III-main\Matriz\obj\Debug\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Downloads\SENA-VS-TRIM-III-main\SENA-VS-TRIM-III-main\Matriz\bin\Debug\Matriz.exe.config
+C:\Users\Sena\Downloads\SENA-VS-TRIM-III-main\SENA-VS-TRIM-III-main\Matriz\bin\Debug\Matriz.exe
+C:\Users\Sena\Downloads\SENA-VS-TRIM-III-main\SENA-VS-TRIM-III-main\Matriz\bin\Debug\Matriz.pdb
+C:\Users\Sena\Downloads\SENA-VS-TRIM-III-main\SENA-VS-TRIM-III-main\Matriz\obj\Debug\Matriz.exe
+C:\Users\Sena\Downloads\SENA-VS-TRIM-III-main\SENA-VS-TRIM-III-main\Matriz\obj\Debug\Matriz.pdb
